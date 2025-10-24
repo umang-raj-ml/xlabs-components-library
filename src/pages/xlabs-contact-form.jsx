@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import XlabsInput from "../components/xlabs-input";
-import XlabsButton from "../components/xlabs-button";
-import XlabsText from "../components/xlabs-text";
-import XlabsCheckbox from "../components/xlabs-checkbox";
+import XlabsInput from "../components/xlabs-input/xlabs-input";
+import XlabsButton from "../components/xlabs-button/xlabs-button";
+import XlabsText from "../components/xlabs-text/xlabs-text";
+import XlabsCheckbox from "../components/xlabs-checkbox/xlabs-checkbox";
 import image from '../assets/3ce109d83b0cc4d043134b8a667a878c1c72750c.svg';
 
 
